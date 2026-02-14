@@ -1,0 +1,20 @@
+*.*Preview
+*.PrjPCBStructure
+*.PrjPcbStructure
+*.*_loc
+Project Outputs*
+Project Logs*
+History*
+backup
+old
+*_old.*
+*.rep
+*.Cam
+*.htm
+*.DXPprf
+*.dat
+*.DsnWrk
+*.PNG
+*.png
+*.JPG
+*.jpg
