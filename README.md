@@ -16,7 +16,7 @@
     Circuits Intégrés
 ### TEP-AltiumLib-Modules.SCHLIB
     Modules, PCB
-### TEP-AltiumLib-TP-MH-Tooling-Logo
+### TEP-AltiumLib-Hardware
     Testpoints, Mounting hole et standoff, composants pour Outillage, logo...
 ### TEP-AltiumLib.SchLib 
     Tous les autres : crystals, oscillateurs, batteries, interrupteurs... 
