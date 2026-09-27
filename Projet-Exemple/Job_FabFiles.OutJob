@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Job_FabFiles.OutJob
 Description=
 TargetOutputMedium=output folder
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=PDF-XChange Lite
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -363,7 +363,7 @@ OutputEnabled17_OutputMedium3=5
 OutputEnabled17_OutputMedium4=0
 OutputDefault17=0
 Configuration17_Name1=OutputConfigurationParameter1
-Configuration17_Item1=Record=ExportDXFView|ACadVersion=25|UseRoundedTracks=False|Components=1|HoleMode=0|Units=1|OutputFormat=1|ZeroWidthLines=0|LayersHash=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908291~1,16908292~1,16908290~1,16908293~1|OnlyVisibleLayers=False|UsePolylines=True|DocumentPath=C:\Users\kevin.cotton\OneDrive - Cégep Limoilou\_Cours-TGE\243-336 - Developpement de produits 3 - Assemblage\projet manette\243-336_MP_PCB-Altium\243-336_MP-manette-PCB\243-336_MP_Manette.PcbDoc
+Configuration17_Item1=Record=ExportDXFView|ACadVersion=317|UseRoundedTracks=False|Components=1|HoleMode=0|Units=1|OutputFormat=1|ZeroWidthLines=0|LayersHash=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908291~1,16908292~1,16908290~1|OnlyVisibleLayers=False|UsePolylines=True|DocumentPath=C:\Users\kevin.cotton\OneDrive - Cégep Limoilou\_Cours-TGE\Altium\243-TEP_Altium-Lib\Projet-Exemple\Pcb1.PcbDoc
 OutputType18=Assembly
 OutputName18=DXF Drawing
 OutputCategory18=Assembly
